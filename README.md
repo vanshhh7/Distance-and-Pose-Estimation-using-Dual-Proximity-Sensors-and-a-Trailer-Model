@@ -5,6 +5,7 @@
 
 This project simulates a mobile robot equipped with two proximity sensors and a trailer to estimate its distance traveled and pose. The system models sensor noise, updates trailer position dynamically, and evaluates the accuracy of distance estimation using error metrics such as Mean Absolute Error (MAE) and Root Mean Square Error (RMSE). The simulation runs for a fixed number of steps, visualizing the robot's path, trailer movement, and estimation errors.
 
+
 # Features
 
 **Proximity Sensor Simulation:** Two virtual proximity sensors measure wheel velocity with noise.
